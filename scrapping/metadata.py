@@ -3,7 +3,7 @@
 """
 Created on Tue Dec  3 09:17:19 2019
 
-@author: ashish
+@author:vikas
 """
 
 import tweepy
